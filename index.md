@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a undergraduate student at Loyola University Chicago
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Algebraic Topology:** image recognition, image generation, video captioning
+- **Category Theory:** meta-learning, incremental learning, transfer learning
 
 ## News
 
